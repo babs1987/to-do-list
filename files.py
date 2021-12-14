@@ -30,3 +30,4 @@ print(s.gettasks())
 # print(s.gettasks())
 s.delete_task_by_task("купить водку")
 print(s.gettasks())
+1
